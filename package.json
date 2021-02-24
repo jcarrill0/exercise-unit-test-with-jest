@@ -1,0 +1,23 @@
+{
+  "name": "exercise-unit-test-with-jest",
+  "version": "1.0.0",
+  "description": "```\r Important: 💻  This exercise is interactive!\r Please follow the instructions.\r ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcarrill0/exercise-unit-test-with-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcarrill0/exercise-unit-test-with-jest/issues"
+  },
+  "homepage": "https://github.com/jcarrill0/exercise-unit-test-with-jest#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
