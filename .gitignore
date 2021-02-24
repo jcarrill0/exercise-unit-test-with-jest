@@ -1,23 +1,23 @@
 # Ignore everything
 
-!.gitignore
-!.gitpod.yml
-!.gitpod.Dockerfile
-!bc.json
-!learn.json
-!README.md
+# !.gitignore
+# !.gitpod.yml
+# !.gitpod.Dockerfile
+# !bc.json
+# !learn.json
+# !README.md
 
-!/exercises
-!/exercises/*
+# !/exercises
+# !/exercises/*
 
-!/.learn
-/.learn/**
-!/.learn/resets
-!/.learn/resets/**
-!/.learn/assets
-!/.learn/assets/**
-!/.learn/exercises
-!/.learn/exercises/**
+# !/.learn
+# /.learn/**
+# !/.learn/resets
+# !/.learn/resets/**
+# !/.learn/assets
+# !/.learn/assets/**
+# !/.learn/exercises
+# !/.learn/exercises/**
 
 #Ignorar la carpeta node_modules
 node_modules/
